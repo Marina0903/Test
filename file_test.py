@@ -3,6 +3,7 @@ def tu():
     d = float(input("введите целое число: "))
     print(a) 
     print(d)
+<<<<<<< HEAD
 tu()
 
 def Big_ass():  
@@ -10,3 +11,6 @@ def Big_ass():
     print(r)
 Big_ass()
 # написание функции строка (не нужно применять стр)
+=======
+tu()
+>>>>>>> test_merge
